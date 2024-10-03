@@ -10,6 +10,14 @@ Manifest v3 is here, and it has already resulted in the death of many older exte
 
 ---
 
+### Table of Contents
+
+- [Extensions with Firefox Support](#extensions-with-firefox-support)
+- [Extensions without Firefox Support](#extensions-without-firefox-support)
+- [Extensions with ONLY Firefox Support](#firefox-only-extensions)
+
+---
+
 ## Extensions with Firefox Support
 
 ### Ad Observer
@@ -716,5 +724,54 @@ Supercharge your YouTube channel: grow views and subs with extended capabilities
 
 - [Chrome](https://chromewebstore.google.com/detail/mhkhmbddkmdggbhaaaodilponhnccicb)
 - [Source / Homepage](https://www.tubebuddy.com/)
+
+---
+
+## Firefox-Only Extensions
+
+### Firefox Multi-Account Containers
+
+Allows you to keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+
+- [Source](https://github.com/mozilla/multi-account-containers)
+- [Homepage](https://support.mozilla.org/en-US/kb/containers)
+- [Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+
+---
+
+### Gesturefy
+
+ Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands. Gesturefy is a pure mouse gesture extension, which means it's only suited for mice and not touchpads.
+
+- [Source / Homepage](https://github.com/Robbendebiene/Gesturefy)
+- [Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/)
+
+---
+
+### LibRedirect
+
+Automatically redirects YouTube, Instagram, Reddit, TikTok and **MANY** other websites to alternative privacy-friendly frontends. This was removed from the Chrome Web Store due to Google's new policies against YouTube redirectors. It can be sideloaded into Chrome, but is not recommended.
+
+- [Homepage](https://libredirect.github.io/)
+- [Source (GitHub)](https://github.com/libredirect/browser_extension)
+- [Source (Codeberg)](https://codeberg.org/LibRedirect/browser_extension)
+
+---
+
+### Translate Web Pages
+
+Translate your page in-place in real time using Google or Yandex. Can be sideloaded into Chrome without support.
+
+- [Source / Homepage](https://github.com/FilipePS/Traduzir-paginas-web)
+- [Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+
+---
+
+### Watch on Odysee
+
+Automatically redirect YouTube links to Odysee when a video is also available there. This was removed from the Chrome Web Store due to Google's policies against YouTube redirectors. It can be sideloaded into Chrome, but is not recommended.
+
+- [Source](https://github.com/kodxana/Watch-on-Odysee)
+- [Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/watch-on-odysee/)
 
 ---
