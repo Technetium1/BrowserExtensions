@@ -1,5 +1,7 @@
 # Browser Extensions
 
+[![Check Links](https://github.com/Technetium1/BrowserExtensions/actions/workflows/links.yml/badge.svg)](https://github.com/Technetium1/BrowserExtensions/actions)
+
 ## What is this?
 
 I use a lot of extensions to make my browsing experience more enjoyable. This is a list of everything I use (or at least have installed), a brief description of what they do, and a link to the extension's store pages, and the homepage / source code.
