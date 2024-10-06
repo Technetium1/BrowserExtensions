@@ -773,6 +773,8 @@ Translate your page in-place in real time using Google or Yandex. Can be sideloa
 
 Automatically redirect YouTube links to Odysee when a video is also available there. This was removed from the Chrome Web Store due to Google's policies against YouTube redirectors. It can be sideloaded into Chrome, but is not recommended.
 
+**NOTICE:** Requires a popup exception for `youtube.com` to function properly!
+
 - [Source](https://github.com/kodxana/Watch-on-Odysee)
 - [Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/watch-on-odysee/)
 
