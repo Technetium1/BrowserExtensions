@@ -32,6 +32,16 @@ A browser extension to share data about your social feed with researchers and jo
 
 ---
 
+### ARIA Devtools
+
+Easily spot missing ARIA labels, misused ARIA roles, and incomplete keyboard support in your web applications.
+
+- [Chrome](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
+- [Firefox](https://addons.mozilla.org/firefox/addon/aria-devtools/)
+- [Source / Homepage](https://github.com/ziolko/aria-devtools)
+
+---
+
 ### Augmented Steam
 
 Augments your Steam Experience for improved browsing and shopping/
@@ -39,6 +49,17 @@ Augments your Steam Experience for improved browsing and shopping/
 - [Chrome](https://chromewebstore.google.com/detail/dnhpnfgdlenaccegplpojghhmaamnnfp)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/)
 - [Source / Homepage](https://augmentedsteam.com/)
+
+---
+
+### Auto Tab Discard
+
+Automatically discard inactive tabs after a specified amount of time to reduce memory usage and prevent background scripts from consuming computational resources when it is not in use. This extension uses the native method for tab discarding, which means it does not suffer from the same issues as other extensions that use custom methods. When a tab is discarded by the native method, it is completely removed from memory and does not use any resources, but it can be restored to its previous state, including preserving page state such as scroll position. The extension also allows you to configure an exception list and specify types of tabs that should not be discarded, such as pinned tabs or tabs that are playing media. This is a direct replacement/upgrade from `The Marvellous Suspender`.
+
+- [Chrome](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
+- [Firefox](https://addons.mozilla.org/firefox/addon/auto-tab-discard/)
+- [Homepage](https://webextension.org/listing/tab-discard.html)
+- [Source](https://github.com/rNeomy/auto-tab-discard)
 
 ---
 
@@ -329,6 +350,15 @@ Turn pieces of ANSI based text art and ASCII, NFO plain text into HTML.
 - [Chrome](https://chromewebstore.google.com/detail/gkjkgilckngllkopkogcaiojfajanahn)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/retrotxt)
 - [Source / Homepage](https://github.com/bengarrett/RetroTxt)
+
+---
+
+### Search by Image
+
+A powerful reverse image search tool, with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.
+- [Chrome](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)
+- [Firefox](https://addons.mozilla.org/firefox/addon/search_by_image/)
+- [Source / Homepage](https://github.com/dessant/search-by-image)
 
 ---
 
@@ -704,7 +734,7 @@ Copy and paste lists of open tabs.
 
 ### The Marvellous Suspender
 
-Make your computer run smoothly by suspending the tabs you aren't using. This has been killed by Manifest V3.
+Make your computer run smoothly by suspending the tabs you aren't using. This has been killed by Manifest V3. See `Auto Tab Discard` for a replacement.
 
 - [Chrome](https://chromewebstore.google.com/detail/noogafoofpebimajpfpamcfhoaifemoa)
 - [Source / Homepage](https://github.com/gioxx/MarvellousSuspender/issues/197)
@@ -730,6 +760,15 @@ Supercharge your YouTube channel: grow views and subs with extended capabilities
 ---
 
 ## Firefox-Only Extensions
+
+### About Sync
+
+This desktop-only addon shows information about your Sync account, including showing all server data for your account. It is designed primarily for Sync developers, or advanced users who would like insights into their Sync data.
+
+- [Source](https://github.com/mozilla-extensions/aboutsync)
+- [Firefox Addon Store](https://addons.mozilla.org/firefox/addon/about-sync/)
+
+---
 
 ### Firefox Multi-Account Containers
 
@@ -757,6 +796,33 @@ Automatically redirects YouTube, Instagram, Reddit, TikTok and **MANY** other we
 - [Homepage](https://libredirect.github.io/)
 - [Source (GitHub)](https://github.com/libredirect/browser_extension)
 - [Source (Codeberg)](https://codeberg.org/LibRedirect/browser_extension)
+
+---
+
+### Port Authority
+
+Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
+
+- [Source / Homepage](https://github.com/ACK-J/Port_Authority)
+- [Firefox Addon Store](https://addons.mozilla.org/firefox/addon/port-authority/)
+
+---
+
+### Tab Counter Plus
+
+Shows the number of tabs in each Firefox window.
+
+- [Source / Homepage](https://github.com/Loirooriol/tab-counter-plus)
+- [Firefox Addon Store](https://addons.mozilla.org/firefox/addon/tab-counter-plus)
+
+---
+
+### Tabby
+
+Tabby is an open-source window & tab manager that can manage great amounts of windows and tabs with ease. Especially useful for navigating sessions with many open windows.
+
+- [Source / Homepage](https://github.com/Bill13579/tabby)
+- [Firefox Addon Store](https://addons.mozilla.org/firefox/addon/tabby-window-tab-manager/)
 
 ---
 
