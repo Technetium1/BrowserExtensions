@@ -54,7 +54,7 @@ Augments your Steam Experience for improved browsing and shopping/
 
 ### Auto Tab Discard
 
-Automatically discard inactive tabs after a specified amount of time to reduce memory usage and prevent background scripts from consuming computational resources when it is not in use. This extension uses the native method for tab discarding, which means it does not suffer from the same issues as other extensions that use custom methods. When a tab is discarded by the native method, it is completely removed from memory and does not use any resources, but it can be restored to its previous state, including preserving page state such as scroll position. The extension also allows you to configure an exception list and specify types of tabs that should not be discarded, such as pinned tabs or tabs that are playing media. This is a direct replacement/upgrade from `The Marvellous Suspender`.
+Automatically discard inactive tabs after a specified amount of time to reduce memory usage and prevent background scripts from consuming computational resources when it is not in use. This extension uses the native method for tab discarding, which means it does not suffer from the same issues as other extensions that use custom methods. When a tab is discarded by the native method, it is completely removed from memory and does not use any resources, but it can be restored to its previous state, including preserving page state such as scroll position. The extension also allows you to configure an exception list and specify types of tabs that should not be discarded, such as pinned tabs or tabs that are playing media. This is a direct replacement/upgrade from [`The Marvellous Suspender`](#the-marvellous-suspender).
 
 - [Chrome](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
 - [Firefox](https://addons.mozilla.org/firefox/addon/auto-tab-discard/)
@@ -734,7 +734,7 @@ Copy and paste lists of open tabs.
 
 ### The Marvellous Suspender
 
-Make your computer run smoothly by suspending the tabs you aren't using. This has been killed by Manifest V3. See `Auto Tab Discard` for a replacement.
+Make your computer run smoothly by suspending the tabs you aren't using. This has been killed by Manifest V3. See [`Auto Tab Discard`](#auto-tab-discard) for a replacement.
 
 - [Chrome](https://chromewebstore.google.com/detail/noogafoofpebimajpfpamcfhoaifemoa)
 - [Source / Homepage](https://github.com/gioxx/MarvellousSuspender/issues/197)
