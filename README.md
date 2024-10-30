@@ -233,16 +233,6 @@ Display the server IP address, with a realtime summary of IPv4, IPv6, and HTTPS 
 
 ---
 
-### Iridium for YouTube
-
-Take control of YouTube and boost your user experience with Iridium.
-
-- [Chrome](https://chromewebstore.google.com/detail/gbjmgndncjkjfcnpfhgidhbgokofegbl)
-- [Firefox](https://addons.mozilla.org/firefox/addon/particle-iridium/)
-- [Source / Homepage](https://github.com/ParticleCore/Iridium)
-
----
-
 ### LanguageTool
 
 Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool.
