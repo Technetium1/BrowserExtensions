@@ -825,6 +825,15 @@ Translate your page in-place in real time using Google or Yandex. Can be sideloa
 
 ---
 
+### URLs List
+
+List the URLs of all tabs from the current window as copyable plaintext, and load a plaintext list of urls to individual tabs.
+
+- [Source / Homepage](https://github.com/moritz-h/urls-list)
+- [Firefox Addon Store](https://addons.mozilla.org/addon/urls-list/)
+
+---
+
 ### Watch on Odysee
 
 Automatically redirect YouTube links to Odysee when a video is also available there. This was removed from the Chrome Web Store due to Google's policies against YouTube redirectors. It can be sideloaded into Chrome, but is not recommended.
