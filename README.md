@@ -303,16 +303,6 @@ Generates OpenAPI specs for any app or website.
 
 ---
 
-### PayPal Honey: Automatic Coupons & Cash Back
-
-Save money, earn rewards, and automatically test coupons when you shop online in exchange for being tracked. This should **always** be disabled when not actively in use!
-
-- [Chrome](https://chromewebstore.google.com/detail/bmnlcjabgnpnenekpadlanbbkooimhnj)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/honey/)
-- [Source / Homepage](https://www.joinhoney.com/)
-
----
-
 ### Pushbullet
 
 Enables you to see your calls and texts on your computer and easily send links and files from your computer to phone. This was around before KDE Connect.
