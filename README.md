@@ -22,16 +22,6 @@ Manifest v3 is here, and it has already resulted in the death of many older exte
 
 ## Extensions with Firefox Support
 
-### Ad Observer
-
-A browser extension to share data about your social feed with researchers and journalists to increase transparency.
-
-- [Chrome](https://chromewebstore.google.com/detail/dafimblndlbfdhmdnefmmnjdpbbnflgd)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ad-observer/)
-- [Source / Homepage](https://adobserver.org/)
-
----
-
 ### ARIA Devtools
 
 Easily spot missing ARIA labels, misused ARIA roles, and incomplete keyboard support in your web applications.
