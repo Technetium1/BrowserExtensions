@@ -769,6 +769,16 @@ Automatically redirects YouTube, Instagram, Reddit, TikTok and **MANY** other we
 
 ---
 
+### LocalCDN
+
+Emulates Content Delivery Networks locally. A fork of Decentraleyes.
+
+- [Homepage](https://www.localcdn.org/)
+- [Source (Codeberg)](https://codeberg.org/nobody/LocalCDN)
+- [Firefox Addon Store](https://addons.mozilla.org/de/firefox/addon/localcdn-fork-of-decentraleyes/)
+
+---
+
 ### Port Authority
 
 Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
