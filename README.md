@@ -173,16 +173,6 @@ Colorize issue and PR links to see their status (open, closed, merged).
 
 ---
 
-### Grammarly
-
-Improve your writing with all-in-one assistance—including generative AI, grammar check, and more.
-
-- [Chrome](https://chromewebstore.google.com/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
-- [Source / Homepage](https://grammarly.com/)
-
----
-
 ### Imagus
 
 Enlarge thumbnails, and show images/videos from links with a mouse hover.
@@ -225,7 +215,7 @@ Display the server IP address, with a realtime summary of IPv4, IPv6, and HTTPS 
 
 ### LanguageTool
 
-Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool.
+Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool. Much more preferred to Grammarly.
 
 - [Chrome](https://chromewebstore.google.com/detail/oldceeleldhonbafppcapldpdifcinji)
 - [Firefox](https://addons.mozilla.org/firefox/addon/languagetool/)
