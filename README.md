@@ -53,16 +53,6 @@ Automatically discard inactive tabs after a specified amount of time to reduce m
 
 ---
 
-### Better YouTube Shorts
-
-Take back the controls on YouTube Shorts with playback, volume, progress bar and more!
-
-- [Chrome](https://chromewebstore.google.com/detail/pehohlhkhbcfdneocgnfbnilppmfncdg)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts/)
-- [Source / Homepage](https://github.com/ynshung/better-yt-shorts)
-
----
-
 ### BetterTTV
 
 Enhances Twitch and YouTube with new features, emotes, and more.
