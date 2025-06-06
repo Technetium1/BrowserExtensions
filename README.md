@@ -392,18 +392,6 @@ Get Back Your Email Privacy, Block Email Tracking, and make any tracking attempt
 
 ---
 
-### uMatrix
-
-**DISCONTINUED!**
-
-Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, etc.
-
-- [Chrome](https://chromewebstore.google.com/detail/ogfcmafjalglgifnmanfmnieipoejdcf)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
-- [Source / Homepage](https://github.com/gorhill/uMatrix)
-
----
-
 ### Under New Management
 
 Detect when your installed extensions have changed owners.
