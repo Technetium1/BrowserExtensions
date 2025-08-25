@@ -173,16 +173,6 @@ Enlarge thumbnails, and show images/videos from links with a mouse hover.
 
 ---
 
-### 'Improve YouTube!' 🎧 (for YouTube & Videos)
-
-YouTube, tidy & smart? Filter your videos & category; Give YouTube layout, theme & color; Auto-pause; Playlist; Hide shorts; Set your YouTube Video Player; YouTube Content Categories & Filter-rules; Tweaks; Layout, Theme & Style.
-
-- [Chrome](https://chromewebstore.google.com/detail/bnomihfieiccainjcjblhegjgglakjdd)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/)
-- [Source / Homepage](https://github.com/code-charity/youtube)
-
----
-
 ### IPFS Companion
 
 Harness the power of IPFS in your browser.
