@@ -16,7 +16,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@885c65f3dc543b57c898c8099f4e08c8afd178a2 # v2.6.1
         with:
-          args: --base . --verbose --no-progress 'README.md'
+          args: --root-dir "$(pwd)" --verbose --no-progress 'README.md'
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
@@ -25,3 +25,4 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: link-checker
+
