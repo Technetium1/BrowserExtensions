@@ -598,14 +598,6 @@ Watch video using Picture-in-Picture. This was used for parity with existing Fir
 
 ---
 
-### PiPPY - Native picture in picture
-
-Native Google Chrome extension for picture in picture mode. Supports Youtube, Twitch, Mixer, Facebook and many other platforms. This was used for parity with existing Firefox functionality.
-
-- [Chrome](https://chromewebstore.google.com/detail/kienbfjdgnamgohflfagoplkpkkcnohj)
-
----
-
 ### Project Naptha
 
 Highlight, copy, edit, and translate text from any image on the web using OCR.
