@@ -652,6 +652,15 @@ Copy and paste lists of open tabs.
 
 ---
 
+### Tabox
+
+Save all open tabs and tab groups (names, colors, order) into named collections and restore the whole session in one click. Supports Google Drive sync and sharing collections via link.
+
+- [Chrome](https://chromewebstore.google.com/detail/bdbliblipiempfdkkkjohnecmeknnpoa)
+- [Source / Homepage](https://github.com/gilgold/tabox)
+
+---
+
 ### The Marvellous Suspender
 
 Make your computer run smoothly by suspending the tabs you aren't using. This has been killed by Manifest V3. See [`Auto Tab Discard`](#auto-tab-discard) for a replacement.
