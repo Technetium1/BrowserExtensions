@@ -654,9 +654,10 @@ Copy and paste lists of open tabs.
 
 ### Tabox
 
-Save all open tabs and tab groups (names, colors, order) into named collections and restore the whole session in one click. Supports Google Drive sync and sharing collections via link.
+Save open tabs and tab groups into named collections and restore the session in one click. Collections can sync via Google Drive or be shared with a link. Works on Chrome, Edge, and other Chromium browsers.
 
 - [Chrome](https://chromewebstore.google.com/detail/bdbliblipiempfdkkkjohnecmeknnpoa)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/tabox-save-and-share-ta/ekkmpemnpkaecapbjcgidkflglondcem)
 - [Source / Homepage](https://github.com/gilgold/tabox)
 
 ---
